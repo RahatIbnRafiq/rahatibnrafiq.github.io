@@ -1,7 +1,7 @@
 ---
 title: "Polynomial time approximation scheme for t-latency bounded information propagation problem in heterogeneous wireless networks"
 author : "Rafiq, Rahat Ibn and Farhan, Rahman and Rahman, Md. Saidur"
-permalink: /publication/pub1
+permalink: /publications/2013-10-01-polynomial-time-approximation
 booktitle: "International Symposium on Wireless and pervasive Computing (ISWPC)}", 
 year: 2013
 doi: 10.1109/ISWPC.2013.6707432
