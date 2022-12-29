@@ -1,0 +1,56 @@
+---
+layout: archive
+title: "Industry Experiences"
+permalink: /industry/
+author_profile: true
+---
+
+# Present
+
+<!-- ## Cyberbullying Detection Advisor, PanPrivacy
+
+## Advisor, OwnItApp, AI, HITL, ML Collaboration -->
+
+## Array of Engineers AI Collaboration
+
+## Proctor and Gamble AI Collaboration
+
+
+# Past
+
+## Member of Technical Staff at ThoughtSpot Inc.
+### January 2019 to May 2020
+<ol>
+<li>Part of the SpotIQ team that uses scalable machine learning techniques to generate business insights for businesses using ThoughtSpot as their primary BI tool.</li>
+
+<li>Responsible for implementing Time Series algorithms to generate time sensitive business insights to the users.</li>
+
+
+<li>Responsible for building scalable algorithm to provide personalized and relevant business insights to the users using machine learning, data mining and recommendation system algorithms.<li>
+</ol>
+
+
+## Machine Learning Enginner at DeepGreen AI
+### January 2018 to May 2018
+Part of DeepGreen ML team to build a high resolution plant disease detection using deep learning techniques.
+Agile methodology, extensive use of github, understanding of tensorflow python codes, implementation of intermediate
+layer visualization in tensorboard, visualizing and computing evaluation loss and performing image augmentations.
+
+
+## Software Engineer at KONA Software Lab
+### October 2012 to February 2013
+I joined here as a software engineer and worked on TSM and GP Interpreter. The platform was mainly J2EE.KONA software lab  is a subsidiary of  an eminent South Korean smart card manufacturing company <a href="https://konai.com/" target="_blank">KONAI</a>.
+
+
+## Junior Software Engineer at Reve Systems
+### October 2012 to February 2013
+REVE Systems is a global leader in IP communication industry. It has a wide assortment of products, ranging from backbone infrastructure
+to peripheral products, including middleware. REVE Systems today holds leadership position in Mobile VoIP and Softswitch & Billing
+solutions.After my graduation in April 1, 2012, I joined REVE systems as a Junior Software Engineer. I was assigned to the billing
+solution team and was responsible for the following tasks:
+<ul>
+    <li>Work on the implementation of the SIP protocol handling</li>
+    <li>Implementation of the IGW billing structure</li>
+    <li>Maintenance of the IGW and ICX blilling page.</li>
+</ul>
+                        
