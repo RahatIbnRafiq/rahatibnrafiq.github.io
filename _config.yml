@@ -7,11 +7,14 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Rahat Ibn Rafiq"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Rahat Ibn Rafiq"
+description              : &description "Assalamualaikum and hello to this virtual abode of mine. In another parallel world, this page would contain trillions of
+                      information, billions of publications and millions of companies' names that had been blessed with this page-owner's presence.
+                      But in this world, the scene is a bit drastically contrasting as you can see. Well if building castles in the air was a viable
+                      profession, surely I would have been the finest mason around. But it is not. Unfortunately."
+url                      : https://rahatibnrafiq.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
