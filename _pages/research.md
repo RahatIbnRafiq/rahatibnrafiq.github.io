@@ -5,13 +5,28 @@ permalink: /research/
 author_profile: true
 ---
 
-# Research Interests
+## Research Interests
 
 <ul>
     <li>Social Network Analysis and Mining</li>
     <li>Distributed Systems</li>
     <li>Mobile Computing</li>
 </ul>
+
+
+## Grants
+
+<ul>
+    <li> Special Project GA, GVSU, 2022-2023</li>
+    <li> Array Of Engineers Gift, PI, 45K, 2022</li>
+    <li> P&G Gift, Co-PI, 50K, 2022</li>
+    <li> Special Project GA, GVSU, 2021-2022</li>
+    <li> CSCE Grant, GVSU, 2021</li>
+    <li> P&G Gift, Co-PI, 75K, 2021</li>
+</ul>
+
+
+## Current Research Projects
 
 ### YouBrush: Leveraging Edge-Based Machine Learning In Oral Care
 
@@ -67,4 +82,7 @@ labeling the data, perform analysis of the labeling data and then building an ac
 ### Scalable and Timely Detection of Cyberbullying in Online Social Networks
 Leveraging dynamic priority scheduler and incremental classifier computation, we were able to
 build a system that is five times more scalable resource-wise and seven times more responsive.
+
+
+
                             
