@@ -26,7 +26,7 @@ author_profile: true
 <li>Responsible for implementing Time Series algorithms to generate time sensitive business insights to the users.</li>
 
 
-<li>Responsible for building scalable algorithm to provide personalized and relevant business insights to the users using machine learning, data mining and recommendation system algorithms.<li>
+<li>Responsible for building scalable algorithm to provide personalized and relevant business insights to the users using machine learning, data mining and recommendation system algorithms.</li>
 </ol>
 
 
