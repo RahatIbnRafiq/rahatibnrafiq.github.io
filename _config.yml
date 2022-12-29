@@ -10,13 +10,10 @@ locale                   : "en-US"
 title                    : "Rahat Ibn Rafiq"
 title_separator          : "-"
 name                     : &name "Rahat Ibn Rafiq"
-description              : &description "Assalamualaikum and hello to this virtual abode of mine. In another parallel world, this page would contain trillions of
-                      information, billions of publications and millions of companies' names that had been blessed with this page-owner's presence.
-                      But in this world, the scene is a bit drastically contrasting as you can see. Well if building castles in the air was a viable
-                      profession, surely I would have been the finest mason around. But it is not. Unfortunately."
+description              : &description "Assistant Professor, Grand Valley State University"
 url                      : https://rahatibnrafiq.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "rahatibnrafiq.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -60,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : RahatIbnRafiq
 facebook:
   username               :
   app_id                 :
@@ -83,15 +80,18 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Rahat Ibn Rafiq"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
-  employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  bio              : "Assalamualaikum and hello to this virtual abode of mine. In another parallel world, this page would contain trillions of
+                      information, billions of publications and millions of companies' names that had been blessed with this page-owner's presence.
+                      But in this world, the scene is a bit drastically contrasting as you can see. Well if building castles in the air was a viable
+                      profession, surely I would have been the finest mason around. But it is not. Unfortunately."
+  location         : "Michigan, US"
+  employer         : "Grand Valley State University"
+  pubmed           : 
+  googlescholar    : "https://scholar.google.com/citations?user=nkjWthMAAAAJ&hl=en"
+  email            : "rafiqr at gvsu dot edu"
+  researchgate     : "https://www.researchgate.net/profile/Rahat-Ibn-Rafiq"
   uri              :
   bitbucket        :
   codepen          :
@@ -99,24 +99,24 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "https://github.com/RahatIbnRafiq"
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
-  lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  impactstory      : 
+  lastfm           : "https://www.last.fm/user/RahatRafiq"
+  linkedin         : "https://www.linkedin.com/in/rahatibnrafiq/"
+  orcid            : 
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : 
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "https://twitter.com/RahatIbnRafiq"
   vine             :
   weibo            :
   xing             :
-  youtube          :
+  youtube          : 
   wikipedia        :
 
 
