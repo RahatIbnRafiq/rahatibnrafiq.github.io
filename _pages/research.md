@@ -53,16 +53,33 @@ This project involves the following. First, collect GFM data for future analysis
 
 
 
-## Students
+## Past Students
 
 <ul>
+    <li> Roshan Shreshtha (Now at Dematic)</li>
     <li> Abu Naweem Khan (Now at Dematic)</li>
     <li> Debit Paudel (Now at Kyros Digital)</li>
-    <li> Kushal Dahal (Data Analyst, FSU)</li>
+    <li> Kushal Dahal (Now Data Analyst, FSU)</li>
     <li> Elijah Smith (Now pursuing PhD at MSU)</li>
-    <li> Griffin Going</li>
+    <li> Griffin Going (Now at RankOne Computing)</li>
     <li> Esteban Echeverri Jaramillo (Now pursuing PhD at MSU)</li>
-    <li> Alvaro Ardila Perez (now at Facebook)</li>
+    <li> Alvaro Ardila Perez (Now at Facebook)</li>
+</ul>
+
+## Current Students
+<ul>
+    <li> SM Azizul Hakim (Working on AoE project)</li>
+    <li> Usman Tahir Qureshi (Working on P&G project)</li>
+    <li> Mohammad Shafiq (Working on Cyberbullying Research)</li>
+    <li> Grant Alphenaar (Working on Udemy Research)</li>
+    <li> Connor DeMarco(Working on Stealth Startup with me)</li>
+    <li> Andrew Goodling(Working on Stealth Startup with me)</li>
+</ul>
+
+
+## Masters Thesis
+<ul>
+    <li> Grant Alphenaar : Predicting Course Performance on a Massive Open Online Course Platform: A Natural Language Processing Approach</li>
 </ul>
 
 

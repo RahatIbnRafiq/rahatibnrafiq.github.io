@@ -20,7 +20,7 @@ author_profile: true
 
 
 
-## Proctor and Gamble AI Collaboration
+## Procter and Gamble AI Collaboration
 <ol>
 <li>Use ML to detect brushing techniques using audio signatures</li>
 <li>Use ML to improve oral care regimens</li>
@@ -36,7 +36,7 @@ author_profile: true
 <li>Use NLP and ML to automate HITL coaching actor for athletes</li>
 </ol>
 
-## Stenger and Stenger AI Collaboration
+## Stenger and Stenger AI ollaboration
 <ol>
 <li>Use NLP and ML to automate the redacting and verification process of confidential information</li>
 </ol>
