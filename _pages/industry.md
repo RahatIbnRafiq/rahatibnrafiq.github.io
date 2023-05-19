@@ -13,7 +13,33 @@ author_profile: true
 
 ## Array of Engineers AI Collaboration
 
+<ol>
+<li>Use NLP and ML techniques for automated software test generation from software requirements</li>
+<li>Build a HITL tool for engineers to validate the software test generation process</li>
+</ol>
+
+
+
 ## Proctor and Gamble AI Collaboration
+<ol>
+<li>Use ML to detect brushing techniques using audio signatures</li>
+<li>Use ML to improve oral care regimens</li>
+<li>Develop YouBrush, Mobile application that helps to imporve oral care regimen among users</li>
+<li>Explore the effect of a conversational chatbot in imporving the stickiness of companion apps.</li>
+<li>Implemnent "Ask Lily", GVSU's Campus App, LakerMobile's conversational chatbot</li>
+</ol>
+
+
+## OwnIt App AI Collaboration
+<ol>
+<li>Use Apple watch ang WHOOP to develop wellness model</li>
+<li>Use NLP and ML to automate HITL coaching actor for athletes</li>
+</ol>
+
+## Stenger and Stenger AI Collaboration
+<ol>
+<li>Use NLP and ML to automate the redacting and verification process of confidential information</li>
+</ol>
 
 
 # Past
