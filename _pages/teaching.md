@@ -16,6 +16,7 @@ All My teaching assignments at GVSU
     <li>Winter 2022: CIS 654, CIS 360, CIS 335</li>
     <li>Fall 2022: CIS 310, CIS 350, CIS 619</li>
     <li>Winter 2023: CIS 360, CIS 335</li>
+    <li>Fall 2023: CIS 310, CIS 350, CIS263</li>
 </ol>
 
 
