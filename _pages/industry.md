@@ -11,7 +11,7 @@ author_profile: true
 
 ## Advisor, OwnItApp, AI, HITL, ML Collaboration -->
 
-## Array of Engineers AI Collaboration
+## Array of Engineers & ACI Collaboration
 
 <ol>
 <li>Use NLP and ML techniques for automated software test generation from software requirements</li>
