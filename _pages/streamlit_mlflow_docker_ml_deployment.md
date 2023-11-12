@@ -1,11 +1,11 @@
 ---
-permalink: /tutorials/end-to-end-ml-model-deployment
+permalink: /end-to-end-ml-model-deployment
 title: "End to End ML Model Deployment"
 excerpt: "End to End ML Model Deployment"
 author_profile: true
 redirect_from: 
-  - /tutorials/end-to-end-ml-model-deployment
-  - /tutorials/end-to-end-ml-model-deployment.html
+  - /end-to-end-ml-model-deployment
+  - /end-to-end-ml-model-deployment.html
 ---
 
 

@@ -10,4 +10,4 @@ redirect_from:
 
 List of tutorials for many different reasons.
 
-* [End to End ML Model Deployment using streamlit, fastapi, mlflow, docker](https://rahatibnrafiq.github.io/tutorials/end-to-end-ml-model-deployment)
+* [End to End ML Model Deployment using streamlit, fastapi, mlflow, docker](https://rahatibnrafiq.github.io/end-to-end-ml-model-deployment)
