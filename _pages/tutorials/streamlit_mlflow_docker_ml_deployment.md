@@ -1,5 +1,5 @@
 ---
-permalink: /
+permalink: /tutorials/end-to-end-ml-model-deployment
 title: "End to End ML Model Deployment"
 excerpt: "End to End ML Model Deployment"
 author_profile: true
