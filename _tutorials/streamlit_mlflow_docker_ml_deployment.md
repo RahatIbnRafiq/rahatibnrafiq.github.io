@@ -1,12 +1,11 @@
 ---
 title: 'End-toEnd ML model Deployment'
 date: 2023-11-12
-permalink: /tutorials/end_to_end_ml_deploy
+permalink: /tutorials/endtoendmldeploy
 tags:
   - ML
   - Deployment
 ---
-
 
 # End-to-End ML model deployment using mlflow, streamlit, fastapi and docker
 
