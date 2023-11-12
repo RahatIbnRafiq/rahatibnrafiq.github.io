@@ -1,11 +1,10 @@
 ---
-permalink: /end-to-end-ml-model-deployment
-title: "End to End ML Model Deployment"
-excerpt: "End to End ML Model Deployment"
-author_profile: true
-redirect_from: 
-  - /end-to-end-ml-model-deployment
-  - /end-to-end-ml-model-deployment.html
+title: 'End-toEnd ML model Deployment'
+date: 2023-11-12
+permalink: /tutorials/end_to_end_ml_deploy
+tags:
+  - ML
+  - Deployment
 ---
 
 
