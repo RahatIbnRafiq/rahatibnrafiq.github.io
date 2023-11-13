@@ -18,7 +18,24 @@ author_profile: true
 <li>Build a HITL tool for engineers to validate the software test generation process</li>
 </ol>
 
+## Stenger and Stenger AI ollaboration
+<ol>
+<li>Use NLP and ML to automate the redacting and verification process of confidential information</li>
+</ol>
 
+## MI DNR collaboration
+<ol>
+<li>Use Computer vision and UAVs towards early detection of oak wilt in the state forests and parks</li>
+</ol>
+
+
+# Past
+
+## OwnIt App AI Collaboration
+<ol>
+<li>Use Apple watch ang WHOOP to develop wellness model</li>
+<li>Use NLP and ML to automate HITL coaching actor for athletes</li>
+</ol>
 
 ## Procter and Gamble AI Collaboration
 <ol>
@@ -28,21 +45,6 @@ author_profile: true
 <li>Explore the effect of a conversational chatbot in imporving the stickiness of companion apps.</li>
 <li>Implemnent "Ask Lily", GVSU's Campus App, LakerMobile's conversational chatbot</li>
 </ol>
-
-
-## OwnIt App AI Collaboration
-<ol>
-<li>Use Apple watch ang WHOOP to develop wellness model</li>
-<li>Use NLP and ML to automate HITL coaching actor for athletes</li>
-</ol>
-
-## Stenger and Stenger AI ollaboration
-<ol>
-<li>Use NLP and ML to automate the redacting and verification process of confidential information</li>
-</ol>
-
-
-# Past
 
 ## Member of Technical Staff at ThoughtSpot Inc.
 ### January 2019 to May 2020

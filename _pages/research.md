@@ -11,22 +11,86 @@ author_profile: true
     <li>Social Network Analysis and Mining</li>
     <li>Distributed Systems</li>
     <li>Mobile Computing</li>
+    <li>Natural Language Processing</li>
 </ul>
 
 
 ## Grants
 
 <ul>
-    <li> Special Project GA, GVSU, 2022-2023</li>
+    <li> ESC Grant, PI, 5K, 2023</li>
+    <li> GVSU University Counselling, PI, 7K, 2023</li>
+    <li> MI DNR & Adopt a Hemlock, PI, 32K, 2023</li>
+    <li> Stenger & Stenger, PI, 53K, 2023</li>
+    <li> Array Of Engineers Grant, PI, 38K, 2023</li>
+    <li> Special Project GA, GVSU, 9K,  2022-2023</li>
     <li> Array Of Engineers Gift, PI, 45K, 2022</li>
     <li> P&G Gift, Co-PI, 50K, 2022</li>
-    <li> Special Project GA, GVSU, 2021-2022</li>
-    <li> CSCE Grant, GVSU, 2021</li>
+    <li> Special Project GA, GVSU, 9K, 2021-2022</li>
+    <li> CSCE Grant, GVSU, 3K, 2021</li>
     <li> P&G Gift, Co-PI, 75K, 2021</li>
 </ul>
 
 
 ## Current Research Projects
+
+### GoFundMe (GFM) Data Collection and Analysis
+This project involves the following. First, collect GFM data for future analysis. Second, use NLP and ML techniques to predict the category of a fundraiser (emergency, community, education) based on the description of the fundraiser. Three, understand how the fundraiser behavior is different across different categories. Fourth, can we predict the success probability of a given fundraiser given the initial donation time series of the samaritans.
+
+### Oak Wilt Detection in MI State Forests
+Partnering with Adopt a Hemlock and MI DNR to leverage computer vision and UAVs to facilitate early detection of oak wilt in Michigan
+
+### HITL-NLP Powered approach to visualize Gene Pathway Research
+Collaboration with Dr. Guenter Tusch to develop an nteractive dashboard for research into gene pathways.
+
+### Developing honeypot when cyberbullying takes place
+Collaboration with Dr.Sara Sutton to develop a system where bullying perpetrators are lured into a honeypot where the system analyzes bullying behaviors accordingly, mimicing victim and upstander roles accordingly.
+
+### NLP and HITL towards automated software test generation
+Collaboration Array of Engineers to develop a system that can generate safety critical software tests from requirements.
+
+
+### Several stealth startup projects
+Working with multiple students on several stealth startup ideas.
+
+
+## Current Students
+<ul>
+    <li> SM Azizul Hakim (Working on AoE project)</li>
+    <li> Usman Tahir Qureshi (Working on P&G project)</li>
+    <li> Mohammad Shafiq (Working on Cyberbullying Research)</li>
+    <li> Grant Alphenaar (Current ACI Research Scientist)</li>
+    <li> Muttaki Islam Bismoy (Working on Oak Wilt project)</li>
+    <li> Nazmus Sakib (Working on Stenger and Stenger project)</li>
+    <li> Aliah Lloyd (Working on ESC Grant project on mental health app)</li>
+    <li> Aastha Thapa (Working on GV Mental Health App)</li>
+</ul>
+
+
+
+## Past Students
+
+<ul>
+    <li> Roshan Shreshtha (Now at Dematic)</li>
+    <li> Abu Naweem Khan (Now at Dematic)</li>
+    <li> Debit Paudel (Now at Kyros Digital)</li>
+    <li> Kushal Dahal (Now Data Analyst, FSU)</li>
+    <li> Elijah Smith (Now pursuing PhD at MSU)</li>
+    <li> Griffin Going (Now at RankOne Computing)</li>
+    <li> Esteban Echeverri Jaramillo (Now pursuing PhD at MSU)</li>
+    <li> Alvaro Ardila Perez (Now at Facebook)</li>
+</ul>
+
+
+
+## Masters Thesis
+<ul>
+    <li> Grant Alphenaar : Predicting Course Performance on a Massive Open Online Course Platform: A Natural Language Processing Approach</li>
+</ul>
+
+
+## Previous Projects
+
 
 ### YouBrush: Leveraging Edge-Based Machine Learning In Oral Care
 
@@ -46,45 +110,6 @@ In this project, we are using Data Mining, Machine Learning , Natural Language P
 
 ### Rate My Professors (RMP) Data Collection and Analysis
 This project involves the following. First, collect RMP data for future analysis. Second, understand how student expectations,reviews vary across universities of different types (R1,R2,teaching), location (east coast, west coast etc) and departments (computer science, social science etc). We are then interested in predicting the quality of a professor using the reviews and other metadata collected from the website.
-
-### GoFundMe (GFM) Data Collection and Analysis
-This project involves the following. First, collect GFM data for future analysis. Second, use NLP and ML techniques to predict the category of a fundraiser (emergency, community, education) based on the description of the fundraiser. Three, understand how the fundraiser behavior is different across different categories. Fourth, can we predict the success probability of a given fundraiser given the initial donation time series of the samaritans.
-
-
-
-
-## Past Students
-
-<ul>
-    <li> Roshan Shreshtha (Now at Dematic)</li>
-    <li> Abu Naweem Khan (Now at Dematic)</li>
-    <li> Debit Paudel (Now at Kyros Digital)</li>
-    <li> Kushal Dahal (Now Data Analyst, FSU)</li>
-    <li> Elijah Smith (Now pursuing PhD at MSU)</li>
-    <li> Griffin Going (Now at RankOne Computing)</li>
-    <li> Esteban Echeverri Jaramillo (Now pursuing PhD at MSU)</li>
-    <li> Alvaro Ardila Perez (Now at Facebook)</li>
-</ul>
-
-## Current Students
-<ul>
-    <li> SM Azizul Hakim (Working on AoE project)</li>
-    <li> Usman Tahir Qureshi (Working on P&G project)</li>
-    <li> Mohammad Shafiq (Working on Cyberbullying Research)</li>
-    <li> Grant Alphenaar (Working on Udemy Research)</li>
-    <li> Connor DeMarco(Working on Stealth Startup with me)</li>
-    <li> Andrew Goodling(Working on Stealth Startup with me)</li>
-</ul>
-
-
-## Masters Thesis
-<ul>
-    <li> Grant Alphenaar : Predicting Course Performance on a Massive Open Online Course Platform: A Natural Language Processing Approach</li>
-</ul>
-
-
-## Previous Projects
-
 
 ### Multi-modal Fusion for Flasher Detection in a Mobile Video Chat Application
 Using multi-modal mobile sensor data and temporal data to substantially improve the accuracy of the fusion classifier, compensating for the loss in accuracy due to the weaker correlation between facial absence and flasher behavior in MVChat, a mobile video chat application.
