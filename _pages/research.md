@@ -56,11 +56,11 @@ Working with multiple students on several stealth startup ideas.
 
 ## Current Students
 <ul>
-    <li> SM Azizul Hakim (Working on AoE project)</li>
+    <li> SM Azizul Hakim (Working on Array of Engineers project)</li>
     <li> Usman Tahir Qureshi (Working on P&G project)</li>
     <li> Mohammad Shafiq (Working on Cyberbullying Research)</li>
     <li> Grant Alphenaar (Current ACI Research Scientist)</li>
-    <li> Muttaki Islam Bismoy (Working on Oak Wilt project)</li>
+    <li> Muttaki Islam Bismoy (Working on Oak Wilt project with Michigan DNR)</li>
     <li> Nazmus Sakib (Working on Stenger and Stenger project)</li>
     <li> Aliah Lloyd (Working on ESC Grant project on mental health app)</li>
     <li> Aastha Thapa (Working on GV Mental Health App)</li>
