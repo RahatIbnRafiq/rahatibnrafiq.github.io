@@ -71,11 +71,8 @@ Working with multiple students on several stealth startup ideas.
 ## Past Students
 
 <ul>
-    <li> Roshan Shreshtha (Now at Dematic)</li>
     <li> Abu Naweem Khan (Now at Dematic)</li>
-    <li> Debit Paudel (Now at Kyros Digital)</li>
-    <li> Kushal Dahal (Now Data Analyst, FSU)</li>
-    <li> Elijah Smith (Now pursuing PhD at MSU)</li>
+    <li> Debit Paudel (Now at Mitsubishi)</li>
     <li> Griffin Going (Now at RankOne Computing)</li>
     <li> Esteban Echeverri Jaramillo (Now pursuing PhD at MSU)</li>
     <li> Alvaro Ardila Perez (Now at Facebook)</li>
