@@ -18,7 +18,7 @@ author_profile: true
 <li>Build a HITL tool for engineers to validate the software test generation process</li>
 </ol>
 
-## Stenger and Stenger AI ollaboration
+## Stenger and Stenger AI Collaboration
 <ol>
 <li>Use NLP and ML to automate the redacting and verification process of confidential information</li>
 </ol>
