@@ -1,7 +1,7 @@
 ---
 title: 'Fix the environment mess created by Mac Sonoma, Ruby, Cocoapods and Flutter'
 date: 2024-03-19
-permalink: /tutorials/endtoendmldeploy
+permalink: /tutorials/cocoapods-flutter
 tags:
   - Flutter
   - Ruby
