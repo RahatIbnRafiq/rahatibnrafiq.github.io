@@ -3,9 +3,6 @@ main:
   - title: "Publications"
     url: /publications/
 
-  # - title: "Talks"
-  #   url: /talks/    
-
   - title: "Teaching"
     url: /teaching/
 
@@ -16,7 +13,7 @@ main:
     url: /industry/
         
   - title: "Blog Posts"
-    url: /year-archive/
+    url: /blogs/
     
   # - title: "CV"
   #   url: /cv/
