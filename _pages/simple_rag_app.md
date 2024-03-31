@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "A Simple RAG Application with StreamLit, Langchain, Mistral and Ollama"
-permalink: /simple_rag_App/
+permalink: /simple_rag_app/
 author_profile: true
 ---
 
