@@ -24,13 +24,13 @@ Welcome to my publications page! Below is a list of my research publications, ca
   *M. S. Islam, S. Sutton, R. I. Rafiq*  
   *Proceedings of the 2023 8th International Conference on Information System and Data Mining, 2024*
 
-  - **Interactive Visualization of BioMedical Data**  
-  *M. S. Islam, G. Tusch, R. I. Rafiq*  
-  *Workshop on Big Data and AI for Healthcare @ IEEE Conference on Big Data 2024*
+- **Interactive Visualization of BioMedical Data**  
+*M. S. Islam, G. Tusch, R. I. Rafiq*  
+*Workshop on Big Data and AI for Healthcare @ IEEE Conference on Big Data 2024*
 
-  - **Early Detection of Oak Wilt Using Machine Learning and Unmanned Aerial Vehicles (UAVs)**  
-  *M. I. Bismoy, G. Alphenaar, L. Burns, H. Frei, R. I. Rafiq*  
-  *ACM SIGAPP 2024 (Submitted)*
+- **Early Detection of Oak Wilt Using Machine Learning and Unmanned Aerial Vehicles (UAVs)**  
+*M. I. Bismoy, G. Alphenaar, L. Burns, H. Frei, R. I. Rafiq*  
+*ACM SIGAPP 2024 (Submitted)*
 
 ---
 
