@@ -30,7 +30,7 @@ Welcome to my publications page! Below is a list of my research publications, ca
 
 - **Early Detection of Oak Wilt Using Machine Learning and Unmanned Aerial Vehicles (UAVs)**  
 *M. I. Bismoy, G. Alphenaar, L. Burns, H. Frei, R. I. Rafiq*  
-*ACM SIGAPP 2024 (Submitted)*
+*ICMLC 2025 (Submitted)*
 
 ---
 

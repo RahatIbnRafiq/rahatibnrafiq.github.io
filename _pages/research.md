@@ -18,6 +18,8 @@ author_profile: true
 ## Grants
 
 <ul>
+    <li> PRTS, ACI, PI, 33K, 2024</li>
+    <li> College of Computing, GVSU, Seed Grant, PI, 20K, 2024</li>
     <li> ESC Grant, PI, 5K, 2023</li>
     <li> GVSU University Counselling, PI, 7K, 2023</li>
     <li> MI DNR & Adopt a Hemlock, PI, 32K, 2023</li>
