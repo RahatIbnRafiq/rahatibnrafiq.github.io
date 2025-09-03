@@ -46,7 +46,6 @@ author_profile: true
 Multi agent, gen AI powered approach to tackle holistic college admission challenges.
 
 
-
 ### GoFundMe (GFM) Data Collection and Analysis
 This project involves the following. First, collect GFM data for future analysis. Second, use NLP and ML techniques to predict the category of a fundraiser (emergency, community, education) based on the description of the fundraiser. Three, understand how the fundraiser behavior is different across different categories. Fourth, can we predict the success probability of a given fundraiser given the initial donation time series of the samaritans.
 
