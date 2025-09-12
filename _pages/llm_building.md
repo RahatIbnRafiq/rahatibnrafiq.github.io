@@ -1,7 +1,7 @@
 ---
-title: 'EThe LifeCycle of Building a Large Language Model (LLM)'
+title: 'The LifeCycle of Building a Large Language Model (LLM)'
 date: 2025-08-25
-permalink: /tutorials/llm_build
+permalink: /llm_build/
 tags:
   - LLM
   - Survey
