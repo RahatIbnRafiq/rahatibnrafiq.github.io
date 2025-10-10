@@ -18,6 +18,7 @@ author_profile: true
 
 ## Grants
 
+Total 437K so far.
 <ul>
     <li> MTRAC AgBio Grant Phase I, PI, 45K, 2025</li>
     <li> CSCE mini grant, GVSU, PI, 500, 2025</li>
@@ -45,27 +46,23 @@ author_profile: true
 ### AdmitFair project
 Multi agent, gen AI powered approach to tackle holistic college admission challenges.
 
-
-### GoFundMe (GFM) Data Collection and Analysis
-This project involves the following. First, collect GFM data for future analysis. Second, use NLP and ML techniques to predict the category of a fundraiser (emergency, community, education) based on the description of the fundraiser. Three, understand how the fundraiser behavior is different across different categories. Fourth, can we predict the success probability of a given fundraiser given the initial donation time series of the samaritans.
-
-### Oak Wilt Detection in MI State Forests
+### AI in Forestry Management
 Partnering with Adopt a Hemlock and MI DNR to leverage computer vision and UAVs to facilitate early detection of oak wilt in Michigan
 
-### HITL-NLP Powered approach to visualize Gene Pathway Research
-Collaboration with Dr. Guenter Tusch to develop an nteractive dashboard for research into gene pathways.
+### AI in Indoor Farm Management
+Leverage edge AI for efficient indoor farm management
 
 ### Developing honeypot when cyberbullying takes place
 Collaboration with Dr.Sara Sutton to develop a system where bullying perpetrators are lured into a honeypot where the system analyzes bullying behaviors accordingly, mimicing victim and upstander roles accordingly.
 
 ### Several stealth startup projects
-Working with multiple students on several stealth startup ideas.
+EdgeForestry
 
 
 ## Current Students
 <ul> 
     <li> Colin Brennan, EdgeForestry Project</li>
-    <li> Malek Garrach, EdgeForestry Project</li>
+    <li> Malek Garrach, AI in Indoor Farms Project</li>
     <li> Ahsanul Kabir, EdgeForestry Project</li>
     <li> Minh Tran, AdmitFair Project</li>
     <li> Leo Ho, AdmitFair Project</li>
@@ -99,10 +96,17 @@ Working with multiple students on several stealth startup ideas.
     <li> Grant Alphenaar : Predicting Course Performance on a Massive Open Online Course Platform: A Natural Language Processing Approach, Advisor </li>
     <li> Muttaki Bismoy: Early Detection of Oak Wilt using Unmanned Aerial Vehicles (UAV) and Computer Vision, Advisor</li>
     <li> Mohammad Shafiqul Islam: Cyberbullying Defensive Strategy in Social Media Sessions via Machine Learning and Cyber Deception, committee member</li>
+    <li> SM Azizul Hakim: Structuring Software Test Requirements wih NLP, Advisor</li>
 </ul>
 
 
 ## Previous Projects
+
+### GoFundMe (GFM) Data Collection and Analysis
+This project involves the following. First, collect GFM data for future analysis. Second, use NLP and ML techniques to predict the category of a fundraiser (emergency, community, education) based on the description of the fundraiser. Three, understand how the fundraiser behavior is different across different categories. Fourth, can we predict the success probability of a given fundraiser given the initial donation time series of the samaritans.
+
+### HITL-NLP Powered approach to visualize Gene Pathway Research
+Collaboration with Dr. Guenter Tusch to develop an nteractive dashboard for research into gene pathways.
 
 
 ### YouBrush: Leveraging Edge-Based Machine Learning In Oral Care

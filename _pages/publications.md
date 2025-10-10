@@ -5,17 +5,27 @@ permalink: /publications/
 author_profile: true
 ---
 
-<!-- {% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %} -->
-
 Welcome to my publications page! Below is a list of my research publications, categorized by year of publication.
+
+---
+
+## 2025
+
+- **Generating Context-Aware Cyberbullying Dialogues: A Structured LLM-Based Dataset**  
+  *M. S. Islam, S. Sutton, R. I. Rafiq*  
+  *IEEE CSCloud 2025 (Accepted)*
+
+- **Advancing UAV-based Forest Disease Surveillance: Comparative Analysis of CNN, Hybrid and Vision Transformer Models for Early Detection of Oak Wilt**  
+  *Muttaki Bismoy, Rahat Ibn Rafiq, Lawrence Burns and Heidi Frei*  
+  *The 41st ACM/SIGAPP Symposium On Applied Computing 2026 (Submitted)*
+
+- **Efficient Layout-Aware Document Understanding for Educational Transcripts via Systematic Model Compression**  
+*Minh Tran, Quoc Ho and Rahat Ibn Rafiq*  
+*The 41st ACM/SIGAPP Symposium On Applied Computing 2026 (Submitted)*
+
+- **Distilled Intelligence at the Edge: An IoT-Driven Deep Learning Architecture for Plant Health Assessment**  
+*Malek Garrach and Rahat Ibn Rafiq*  
+*The 41st ACM/SIGAPP Symposium On Applied Computing 2026 (Submitted)*
 
 ---
 
@@ -30,7 +40,7 @@ Welcome to my publications page! Below is a list of my research publications, ca
 
 - **Early Detection of Oak Wilt Using Machine Learning and Unmanned Aerial Vehicles (UAVs)**  
 *M. I. Bismoy, G. Alphenaar, L. Burns, H. Frei, R. I. Rafiq*  
-*ICMLC 2025 (Submitted)*
+*ICMLC 2025*
 
 ---
 

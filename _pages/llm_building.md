@@ -7,8 +7,6 @@ tags:
   - Survey
 ---
 
-# The Lifecycle of Building a Large Language Model (LLM)
-
 A step-by-step blueprint covering the entire research and development pipeline.
 
 ---

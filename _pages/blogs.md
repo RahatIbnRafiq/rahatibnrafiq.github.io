@@ -8,9 +8,6 @@ author_profile: true
 ## 2025
 * [LLM Building Lifecycle](https://rahatibnrafiq.github.io/llm_build/)
 
-* [Simple RAG app with Langchain, StreamLit, Chroma and Ollama](https://rahatibnrafiq.github.io/simple_rag_app/)
-
-
 ## 2024
 * [flutter ruby cocoapods mess fix](https://rahatibnrafiq.github.io/flutter_ruby_cocoapods_mess/)
 

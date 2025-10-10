@@ -4,12 +4,22 @@ title: "Industry Experiences"
 permalink: /industry/
 author_profile: true
 ---
-
+<!-- 
 # Present
+<ol>
+<li>Use AI for Public Speaking Evaluation process</li>
+</ol> -->
 
-<!-- ## Cyberbullying Detection Advisor, PanPrivacy
 
-## Advisor, OwnItApp, AI, HITL, ML Collaboration -->
+
+# Past
+
+## PRTS
+
+<ol>
+<li>Use AI for Public Speaking Evaluation process</li>
+</ol>
+
 
 ## Array of Engineers & ACI Collaboration
 
@@ -25,11 +35,8 @@ author_profile: true
 
 ## MI DNR collaboration
 <ol>
-<li>Use Computer vision and UAVs towards early detection of oak wilt in the state forests and parks</li>
+<li>Use Computer vision and UAVs towards early detection of oak wilt and HWA in the state forests and parks</li>
 </ol>
-
-
-# Past
 
 ## OwnIt App AI Collaboration
 <ol>
