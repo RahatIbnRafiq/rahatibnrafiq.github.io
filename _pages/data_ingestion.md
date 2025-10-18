@@ -1,7 +1,7 @@
 ---
 title: 'Data Ingestion Stage for LLMs'
 date: 2025-08-25
-permalink: /datallm/
+permalink: /llmdata/
 ---
 
 # Data Ingestion & Normalization → Tokenization → Metadata
