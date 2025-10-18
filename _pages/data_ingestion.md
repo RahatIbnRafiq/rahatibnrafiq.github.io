@@ -1,3 +1,9 @@
+---
+title: 'Data Ingestion Stage for LLMs'
+date: 2025-08-25
+permalink: /datallm/
+---
+
 # Data Ingestion & Normalization → Tokenization → Metadata
 
 A survey of how researchers and companies handle this stage in the LLM lifecycle.

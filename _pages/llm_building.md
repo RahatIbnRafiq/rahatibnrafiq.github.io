@@ -23,6 +23,9 @@ A step-by-step blueprint covering the entire research and development pipeline.
 - **Privacy & safety**: Scrub PII, sensitive material.
 - **Curriculum**: Balance domains and difficulty.
 
+[Survey Link here](https://rahatibnrafiq.github.io/llmdata/)
+
+
 ## 3. Modeling
 - **Tokenizer**: Choose BPE/Unigram, vocab size.
 - **Architecture**: Select Transformer, MoE, or hybrid.
