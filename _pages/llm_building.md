@@ -20,7 +20,7 @@ A step-by-step blueprint covering the entire research and development pipeline.
 - **Acquisition**: Gather licensed/open/synthetic sources.
 - **Ingestion**: [Normalize, tokenize, add metadata](https://rahatibnrafiq.github.io/llmdata/)
 - **Filtering**: [Deduplicate, remove low-quality or unsafe content.](https://rahatibnrafiq.github.io/llm_data_filtering)
-- **Privacy & safety**: Scrub PII, sensitive material.
+- **Privacy & safety**: [Scrub PII, sensitive material](https://rahatibnrafiq.github.io/llm_privacy_safety)
 - **Curriculum**: Balance domains and difficulty.
 
 
