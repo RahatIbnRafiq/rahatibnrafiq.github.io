@@ -3,7 +3,6 @@ title: 'Curriculum: Balancing Domains and Difficulty in LLM Training'
 date: 2025-10-17
 permalink: /llm_curriculum/
 ---
-# Curriculum: Balancing Domains and Difficulty in LLM Training
 
 This stage governs **what data** the model learns from, **when** it sees each type, and **how much weight** each domain receives.  
 Curriculum design dramatically affects convergence speed, reasoning ability, and transfer performance.
