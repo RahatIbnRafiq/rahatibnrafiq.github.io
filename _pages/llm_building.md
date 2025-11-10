@@ -25,7 +25,7 @@ A step-by-step blueprint covering the entire research and development pipeline.
 
 
 ## 3. Modeling
-- **Tokenizer**: Choose BPE/Unigram, vocab size.
+- **Tokenizer**: [Choose BPE/Unigram, vocab size](https://rahatibnrafiq.github.io/llm_tokenizer)
 - **Architecture**: Select Transformer, MoE, or hybrid.
 - **Scaling laws**: Fit model/data size to compute budget.
 - **Training recipe**: Optimizer, precision, learning schedule.
