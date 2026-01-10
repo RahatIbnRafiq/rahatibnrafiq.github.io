@@ -12,6 +12,7 @@ author_profile: true
 * [CIS 350](https://rahatibnrafiq.github.io/cis350/)
 * [CIS 360](https://rahatibnrafiq.github.io/cis360/)
 * [CIS 335](https://rahatibnrafiq.github.io/cis335/)
+* [AI 545](https://rahatibnrafiq.github.io/ai545/)
 
 ## Grand Valley State University
 All My teaching assignments at GVSU
