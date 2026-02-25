@@ -1,10 +1,8 @@
-
 ---
 title: 'LLM Architectures'
 date: 2026-2-25
 permalink: /llm_architecture/
 ---
-
 
 # Architecture Selection for LLMs:
 ## Transformers, Mixture-of-Experts (MoE), and Hybrid Models
