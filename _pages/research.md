@@ -4,13 +4,7 @@ permalink: /research/
 author_profile: true
 ---
 
-<ul>
-    <li>Social Network Analysis and Mining</li>
-    <li>Distributed Systems</li>
-    <li>Mobile  and Edge Computing</li>
-    <li>Natural Language Processing</li>
-    <li>AI and Agriculture/Forestry</li>
-</ul>
+**Research Interests**: AI and Agriculture/Forestry, Natural Language Processing, Mobile  and Edge Computing, Distributed Systems, Social Network Analysis and Mining
 
 
 ### Grants
