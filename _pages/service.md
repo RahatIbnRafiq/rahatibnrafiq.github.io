@@ -5,8 +5,6 @@ permalink: /service/
 author_profile: true
 ---
 
-## Service
-
 <ul>
     <li>Executive Committee of the Senate, 2024 - </li>
     <li>University Academic Senate, 2024 - </li>
