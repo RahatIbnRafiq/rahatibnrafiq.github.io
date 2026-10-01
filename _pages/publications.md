@@ -12,8 +12,8 @@ List of publicstions.
 #### 2026
 
 **A lightweight CNN and UAV framework for early detection of oak wilt in forest health management**  
-  *Ishra Naznin, Rahat Ibn Rafiq*  
-  *AISSA 2026*
+  *Muttaaki Bismoy, Rahat Rafiq, Lawrence Burns, Heidi Frei*  
+  *Recent Advances in Robotic Perception for Forestry 2026*
 
 **A Real-Time Mobile Vision System for Honey Bee
 Queen Detection and Localization**  
@@ -21,8 +21,8 @@ Queen Detection and Localization**
 *AISSA 2026*
 
 **Estimating Oak Acorn Abundance from UAV Imagery: Automated Acorn Detection and Counting Using Deep Learning**  
-*Malek Garrach and Rahat Ibn Rafiq*  
-*ICMLT 2026*
+*Ishra Naznin, Rahat Ibn Rafiq*  
+*AISSA 2026*
 
 ---
 
